@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='learn4free',
-    version='0.1.0',
+    version='1.0.0',
     author='Aether',
     author_email='sanwana12.conceptx@gmail.com',
     description='A scraper for free courses from coursekingdom.xyz',
