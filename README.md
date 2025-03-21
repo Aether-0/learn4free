@@ -17,6 +17,7 @@ A Python module to scrape free course information from coursekingdom.xyz.
 Install the package via pip:
 
 ```bash
+pip install .
 pip install learn4free
 ```
 
