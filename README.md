@@ -1,6 +1,3 @@
-Below is the `README.md` tailored for your `Learn4Free` module, as requested. It reflects the current state of your project, including the name change and the acknowledgment for CourseKingdom.
-
-
 ## Learn4Free
 
 A Python module to scrape free course information from coursekingdom.xyz.
